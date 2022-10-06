@@ -1,6 +1,5 @@
 # Hanbaek_Java_Study
-Example, Practice and Etc.
-List of Java experience
+예제, 연습문제등을 총 정리.<br>
 <table width="1055">
 <tbody>
 <tr>
