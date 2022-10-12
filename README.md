@@ -1,6 +1,5 @@
 # Hanbaek_Java_Study
-<h2>예제, 연습문제등을 총 정리</h2><br>
-<h3>요약</h3>
+<h3>Java 학습 요약</h3>
 <table border="1" width="979">
 <tbody>
 <tr>
@@ -46,7 +45,7 @@
 </table>
 
 <br>
-<h3>실습 파일 목록 </h3>
+<h3>Java 연습, 실습 파일 목록 </h3>
 <table border="1" width="1055">
 <tbody>
 <tr>
